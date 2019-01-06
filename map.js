@@ -9,7 +9,6 @@ for (i of inputArr){
 return storageArray
 }
 
-
 console.log(map(words, function(word) {
   return word.length;
 }))
